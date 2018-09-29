@@ -56,3 +56,6 @@ comments: true
 > 原料： 2个温泉蛋/溏心蛋，七味粉  
 
 米饭煮好后，按例盛入碗中。将牛肉卷和洋葱均匀盖在米饭上，用筷子在一侧米饭中挖一个洞，打入一个温泉蛋或溏心蛋。在牛丼上撒上七味粉，尽情享用！
+
+[PDF printable recipe download](https://uraplutonium.github.io/open-recipe/pdf/Tsukimi.Gyudon.温泉蛋牛丼.pdf)
+[PDF打印版食谱下载](https://uraplutonium.github.io/open-recipe/pdf/Tsukimi.Gyudon.温泉蛋牛丼.pdf)
