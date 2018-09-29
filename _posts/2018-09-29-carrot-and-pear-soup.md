@@ -7,7 +7,7 @@ tags: [汤]
 comments: true
 ---
 
-![tea eggs](https://github.com/uraplutonium/open-recipe/raw/master/img/carrot-and-pear-soup.png)
+![carrot and pear soup](https://github.com/uraplutonium/open-recipe/raw/master/img/carrot-and-pear-soup.png)
 
 ## 1. Time 时间
 
