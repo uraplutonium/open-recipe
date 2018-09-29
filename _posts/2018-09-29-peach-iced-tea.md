@@ -3,7 +3,7 @@ layout: post
 title: 桃子冰茶
 subtitle: Peach Iced Tea
 image: /img/peach-iced-tea.png
-tags: [冷饮]
+tags: [饮品]
 comments: true
 ---
 

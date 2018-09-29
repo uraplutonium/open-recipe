@@ -3,7 +3,7 @@ layout: post
 title: 胡萝卜梨汤
 subtitle: Carrot and Pear Soup
 image: /img/carrot-and-pear-soup.png
-tags: [汤]
+tags: [汤羹]
 comments: true
 ---
 
