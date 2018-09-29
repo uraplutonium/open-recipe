@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 开源食谱
-subtitle: Open Recipe
+title: Open Recipe
+subtitle: 开源食谱
 ---
 
 Open Recipe is a recipe that anyone can share and modify the methods of making delicious foods.

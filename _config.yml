@@ -12,16 +12,23 @@ url: "https://uraplutonium.github.io/open-recipe/"
 baseurl: "/open-recipe"
 
 # Name of website
-title: Open Recipe 开源食谱
+title: 开源食谱
 
 # Short description of your site
-description: "任何人都能分享和改进美食制作方法的食谱"
+description: "Open Recipe - 任何人都能分享和改进美食制作方法的食谱"
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  All Recipes:
+  主食:
+  烘培:
+     - 烤奶油土豆肉末: "2018-09-29-creamy-potato-and-meat-grain/"
+  汤羹:
+     - 胡萝卜梨汤: "2018-09-29-carrot-and-pear-soup/"
+  饮品:
+     - 桃子冰茶: "2018-09-29-peach-iced-tea/"
+  卤味
      - 茶叶蛋: "2018-09-28-tea-eggs/"
   About: "about/"
 
