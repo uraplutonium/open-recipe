@@ -2,12 +2,12 @@
 layout: post
 title: 烤奶油土豆肉末
 subtitle: Creamy Potato and Meat Grain
-image: /img/creamy-potato-and-meat-grain.png
+image: /open-recipe/img/creamy-potato-and-meat-grain.png
 tags: [烘培]
 comments: true
 ---
 
-![creamy potato and meat grain](https://raw.githubusercontent.com/uraplutonium/open-recipe/master/img/creamy-potato-and-meat-grain.png)
+![creamy potato and meat grain](https://uraplutonium.github.io/open-recipe/img/creamy-potato-and-meat-grain.png)
 
 ## 1. Time 时间
 
