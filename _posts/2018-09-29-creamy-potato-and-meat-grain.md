@@ -7,7 +7,7 @@ tags: [中餐,卤味]
 comments: true
 ---
 
-![tea eggs](https://github.com/uraplutonium/open-recipe/raw/master/img/creamy-potato-and-meat-grain.png)
+![creamy potato and meat grain](https://raw.githubusercontent.com/uraplutonium/open-recipe/master/img/creamy-potato-and-meat-grain.png)
 
 ## 1. Time 时间
 
