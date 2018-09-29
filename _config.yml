@@ -9,7 +9,7 @@
 
 # If you are building a GitHub project page then use these settings:
 url: "https://uraplutonium.github.io/open-recipe/"
-baseurl: "/open-recipe"
+baseurl: ""
 
 # Name of website
 title: Open Recipe 开源食谱
@@ -27,7 +27,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/fishchips.png"
+avatar: "/open-recipe/img/fishchips.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -109,7 +109,6 @@ link-tags: false
 
 # Exclude these files from production site
 exclude:
-  - CHANGELOG.md
   - CNAME
   - Dockerfile
   - Gemfile
