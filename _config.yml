@@ -4,18 +4,18 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-#url: "https://uraplutonium.github.io"
-#baseurl: ""
+url: "https://uraplutonium.github.io/open-recipe/"
+baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "https://uraplutonium.github.io/open-recipe/"
-baseurl: "/open-recipe"
+#url: "https://uraplutonium.github.io/open-recipe/"
+#baseurl: "/open-recipe"
 
 # Name of website
 title: Open Recipe 开源食谱
 
 # Short description of your site
-description: "Open Recipe is a recipe that anyone can share and modify the methods of making delicious foods."
+description: "任何人都能够分享和改进美食制作方法的食谱。"
 
 # --- Navigation bar options --- #
 

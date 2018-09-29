@@ -3,7 +3,7 @@ layout: post
 title: 烤奶油土豆肉末
 subtitle: Creamy Potato and Meat Grain
 image: /img/creamy-potato-and-meat-grain.png
-tags: [中餐,卤味]
+tags: [烘培]
 comments: true
 ---
 
