@@ -1,0 +1,81 @@
+---
+layout: base
+---
+
+{% include header.html type="post" %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      <article role="main" class="blog-post">
+        {{ content }}
+      </article>
+
+      {% if page.tags.size > 0 %}
+      <div class="blog-tags">
+        Tags:
+        {% if site.link-tags %}
+        {% for tag in page.tags %}
+        <a href="/tag/{{ tag }}">{{ tag }}</a>
+        {% endfor %}
+        {% else %}
+        {{ page.tags | join: ", " }}
+        {% endif %}
+      </div>
+      {% endif %}
+
+      {% if page.social-share %}
+      {% include social-share.html %}
+      {% endif %}
+
+      <ul class="pager blog-pager">
+        {% if page.previous.url %}
+        <li class="previous">
+          <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+        </li>
+        {% endif %}
+        {% if page.next.url %}
+        <li class="next">
+          <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+        </li>
+        {% endif %}
+      </ul>
+
+      {% if page.comments %}
+      <noscript>Please enable JavaScript to view the comment form powered by <a href="https://commentit.io/">Comm(ent|it)</a></noscript>
+      <div id="commentit"></div>
+      <script type="text/javascript">
+	/** CONFIGURATION VARIABLES **/
+	var commentitUsername = 'uraplutonium';
+	var commentitRepo = 'uraplutonium/uraplutonium.github.io';
+	var commentitPath = '{{ page.path }}';
+
+	/** DON'T EDIT FOLLOWING LINES **/
+	(function() {
+	var commentit = document.createElement('script');
+	commentit.type = 'text/javascript';
+	commentit.async = true;
+	commentit.src = 'https://commentit.io/static/embed/dist/commentit.js';
+	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(commentit);
+	})();
+      </script>
+      {% assign sorted_comments = (page.comments) %}
+      {% endif %}
+      
+      {% for c in sorted_comments %}
+      <div class="media">
+	<div>
+            <a href="{{ c.author.url }}">{{ c.author.displayName }}</a>
+            on {{ c.date | date_to_string }}
+	    </br>
+	 {{ c.content | newline_to_br }}
+	</div>
+      </div>
+      {% else %}
+      There are no comments on this post.
+      {% endfor %}
+
+    </div>
+  </div>
+</div>
