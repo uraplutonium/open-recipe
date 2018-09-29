@@ -22,7 +22,7 @@ description: "Open Recipe is a recipe that anyone can share and modify the metho
 # List of links in the navigation bar
 navbar-links:
   All Recipes:
-     - 茶叶蛋: "posts/2018-09-28-open-recipe-tea-eggs/"
+     - 茶叶蛋: "2018-09-28-open-recipe-tea-eggs/"
   About: "about/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
