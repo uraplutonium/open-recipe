@@ -73,7 +73,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "uraplutonium.github.io"
+url-pretty: "github.com/uraplutonium/open-recipe"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
