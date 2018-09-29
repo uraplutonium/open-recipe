@@ -22,14 +22,8 @@ description: "Open Recipe is a recipe that anyone can share and modify the metho
 # List of links in the navigation bar
 navbar-links:
   All Recipes:
-     - TeabagML Toolkit: "projects/teabag-ml/"
-     - ADTree: "https://github.com/uraplutonium/adtree-py/README/"
-     - Publication management: "projects/publication/"
-     - Hadoop crawler: "projects/hcrawler/"
-     - Ebbinghaus: "projects/ebbinghaus/"
-     - Tiny compiler: "projects/tiny-compiler/"
-  Publications: "publications/"
-  About Me: "aboutme/"
+     - 茶叶蛋: "recipes/2018-09-28-open-recipe-tea-eggs/"
+  About: "about/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -72,19 +66,6 @@ share-links-active:
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "uraplutonium.github.io"
-
-# --- Misc --- #
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
-
-# Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
-
-# Google Tag Manager ID
-#gtm: ""
-
-# Facebook App ID
-# fb_app_id: ""
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page

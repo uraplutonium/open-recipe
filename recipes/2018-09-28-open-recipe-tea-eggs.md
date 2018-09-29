@@ -1,16 +1,13 @@
 ---
 layout: post
 title: Tea Eggs 茶叶蛋
-subtitle: Open Recipe 开源食谱
+#subtitle: Open Recipe 开源食谱
 image: /img/open-recipe-tea-eggs.png
-#tags: [open source]
+tags: [中餐,卤味]
 comments: true
 ---
 
-> Open Recipe is a recipe that anyone can share and modify the methods of making delicious foods.  
-> 开源食谱是一种任何人都能够分享和改进制作美食方法的食谱。
-
-![tea eggs](https://raw.githubusercontent.com/uraplutonium/uraplutonium.github.io/master/img/open-recipe-tea-eggs.png)
+![tea eggs](https://github.com/uraplutonium/open-recipe/raw/master/img/open-recipe-tea-eggs.png)
 
 ## 1. Time 时间
 
