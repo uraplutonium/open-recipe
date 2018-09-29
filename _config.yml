@@ -8,8 +8,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "https://uraplutonium.github.io/open-recipe/"
-#baseurl: "/open-recipe"
+url: "https://uraplutonium.github.io/open-recipe/"
+baseurl: "/open-recipe"
 
 # Name of website
 title: Open Recipe 开源食谱
