@@ -1,35 +1,38 @@
 ---
 layout: post
-title: Tea Eggs 茶叶蛋
-#subtitle: Open Recipe 开源食谱
-image: /img/open-recipe-tea-eggs.png
+title: 烤奶油土豆肉末
+subtitle: Creamy Potato and Meat Grain
+image: /img/creamy-potato-and-meat-grain.png
 tags: [中餐,卤味]
 comments: true
 ---
 
-![tea eggs](https://github.com/uraplutonium/open-recipe/raw/master/img/open-recipe-tea-eggs.png)
+![tea eggs](https://github.com/uraplutonium/open-recipe/raw/master/img/creamy-potato-and-meat-grain.png)
 
 ## 1. Time 时间
 
-| Cooking 烹饪 | 1 h. |
-| Baking 烘培  | 0 min. |
-| Resting 静置 | 1 h. |
+| Cooking 烹饪 | 30 min. |
+| Baking 烘培  | 40 min. |
+| Resting 静置 | 5 min.  |
 
-## 2. Ingredients 原料 (6例)
+## 2. Ingredients 原料 (2人份)
 
-| 6个 | 鸡蛋 |
-| 2.6升 | 水 |
-| 100毫升 | 生抽 |
-| 20克 | 红茶 |
-| 20克 | 糖 |
-| 10克 | 生姜 |
-| 1根 | 肉桂 |
-| 2个 | 八角 |
-| 1片 | 月桂叶 |
+| 250克    | 土豆     |
+| 50克     | 牛肉     |
+| 50克     | 猪肉     |
+| 1/4个    | 洋葱     |
+| 4瓣      | 大蒜     |
+| 60毫升   | 淡奶油   |
+| 40毫升   | 牛奶     |
+| 1/10茶匙 | 肉豆蔻粉 |
+| 1汤匙    | 番茄酱   |
+|          | 盐       |
+|          | 黑胡椒   |
+|          | 食用油   |
 
 ## 3. Utensils 器具
 
-漏勺，煮锅，大碗，汤匙，刀，砧板
+
 
 ## 4. Steps 步骤
 
