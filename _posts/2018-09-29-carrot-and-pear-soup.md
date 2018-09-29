@@ -2,7 +2,7 @@
 layout: post
 title: 胡萝卜梨汤
 subtitle: Carrot and Pear Soup
-image: /open-recipe/img/carrot-and-pear-soup.png
+image: /img/carrot-and-pear-soup.png
 tags: [汤]
 comments: true
 ---
