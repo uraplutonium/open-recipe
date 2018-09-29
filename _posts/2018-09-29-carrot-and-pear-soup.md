@@ -55,3 +55,5 @@ comments: true
 > 器具： 手持搅拌器
 
 往煮锅中加入淡牛奶/淡奶油，用手持搅拌器把汤搅打成泥。将汤倒入碗中，撒上罗勒碎/欧芹碎。尽情享用！
+
+- 快下载打印[胡萝卜梨汤的PDF食谱](https://uraplutonium.github.io/open-recipe/pdf/Carrot.and.Pear.Soup.胡萝卜梨汤.pdf)并动手尝试吧！

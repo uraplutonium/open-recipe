@@ -54,3 +54,5 @@ comments: true
 > 器具： 调酒勺，大罐
 
 往大罐中加入柠檬汁，倒入桃子浆液，搅拌均匀。往大罐中加入预留的桃子块，冷却**1小时**后，放入冰箱冷藏。饮用时加入冰块，尽情享用！
+
+- 快下载打印[桃子冰茶的PDF食谱](https://uraplutonium.github.io/open-recipe/pdf/Peach.Iced.Tea.桃子冰茶.pdf)并动手尝试吧！
