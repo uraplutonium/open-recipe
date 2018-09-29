@@ -4,25 +4,24 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://uraplutonium.github.io"
-baseurl: ""
+#url: "https://uraplutonium.github.io"
+#baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://uraplutonium.github.io/projectname"
-#baseurl: "/projectname"
+url: "https://uraplutonium.github.io/open-recipe/"
+baseurl: "/open-recipe"
 
 # Name of website
-title: Felix Ding
+title: Open Recipe
 
 # Short description of your site
-description: ""
+description: "Open Recipe is a recipe that anyone can share and modify the methods of making delicious foods."
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Posts: "https://uraplutonium.github.io/"
-  Projects:
+  All Recipes:
      - TeabagML Toolkit: "projects/teabag-ml/"
      - ADTree: "https://github.com/uraplutonium/adtree-py/README/"
      - Publication management: "projects/publication/"
@@ -34,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/ico/icon-avatar.png"
+avatar: "/img/fishchips.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
