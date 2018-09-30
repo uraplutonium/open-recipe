@@ -23,14 +23,15 @@ description: "Open Recipe - 任何人都能分享和改进美食制作方法的�
 navbar-links:
   主食:
      - 温泉蛋牛丼: "2018-09-29-tsukimi-gyudon/"
+  主菜:
+     - 香菇扒青菜: "2018-09-30-blanched-bok-choy-with-shiitake-mushrooms/"
+     - 茶叶蛋: "2018-09-28-tea-eggs/"
   烘培:
      - 烤奶油土豆肉末: "2018-09-29-creamy-potato-and-meat-grain/"
   汤羹:
      - 胡萝卜梨汤: "2018-09-29-carrot-and-pear-soup/"
   饮品:
      - 桃子冰茶: "2018-09-29-peach-iced-tea/"
-  卤味:
-     - 茶叶蛋: "2018-09-28-tea-eggs/"
   关于: "about/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
