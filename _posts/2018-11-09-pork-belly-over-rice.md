@@ -3,7 +3,7 @@ layout: post
 title: 卤肉饭
 subtitle: Pork Belly over Rice
 image: /img/pork-belly-over-rice.png
-tags: [主菜]
+tags: [主食]
 comments: true
 ---
 

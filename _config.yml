@@ -22,6 +22,7 @@ description: "Open Recipe - 任何人都能分享和改进美食制作方法的�
 # List of links in the navigation bar
 navbar-links:
   主食:
+     - 卤肉饭: "2018-11-09-pork-belly-over-rice/"
      - 温泉蛋牛丼: "2018-09-29-tsukimi-gyudon/"
   主菜:
      - 番茄炒蛋: "2018-10-11-tomatoes-and-eggs/"
