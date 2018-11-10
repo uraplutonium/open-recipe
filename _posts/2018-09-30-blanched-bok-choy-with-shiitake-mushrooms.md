@@ -13,7 +13,7 @@ comments: true
 
 | Cooking 烹饪 | 20 min. |
 | Baking 烘培  | 0 min.  |
-| Resting 静置 | 20 min. |
+| Resting 静置 | 0 min. |
 
 ## 2. Ingredients 原料 (2人份)
 
@@ -26,7 +26,7 @@ comments: true
 | 2汤匙    | 生抽   |
 | 1汤匙    | 淀粉   |
 | 3汤匙    | 食用油 |
-| 1.25汤匙 | 盐     |
+| 1/4汤匙  | 盐     |
 | 1/2汤匙  | 糖     |
 
 ## 3. Utensils 器具
